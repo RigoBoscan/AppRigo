@@ -20,7 +20,7 @@
             </div>
 
             <div class="location">
-              <p>Barrio, Ciudad</p>
+              <p>Barrio, Ciudad, Manzana</p>
             </div>
 
             <div class="indications">
