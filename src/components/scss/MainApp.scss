@@ -1,0 +1,48 @@
+.card{
+    border-radius: 9px !important;
+
+    .entrega{
+        background-color: #0FD6A5 !important;
+        width: 145px;
+        border-radius: 5px;
+        color: #FFFFFF;
+    }
+
+    .entrega h4{
+        padding: 1px 3px;
+    }
+}
+
+.proyect-title{
+    
+    display: flex;
+    justify-content: space-between;
+
+    .favorite{
+        width: 20px;
+    }
+}
+
+.location p{
+    font-size: 16px;
+}
+
+.indications{
+    display: flex;
+}
+
+.indications .indication_bath, .indication_meters, .indication_garage{
+    padding: 0px 0px 0px 19px;
+}
+
+
+.proyect_price{
+    text-align: end;
+}
+
+.proyect_price{
+    b{
+        color: #0091E9;
+        font-size: 25px;
+    }
+}
